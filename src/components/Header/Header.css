@@ -1,0 +1,55 @@
+.headBox {
+    height: 70px;
+    background-color: #2f333e;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.titleBox {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.titleBox .title {
+    color: #ffffff;
+    font-size: 15px;
+
+}
+
+.titleBox .icon {
+    margin-left: 30px;
+    font-size: 20px;
+    color: #ffffff;
+}
+.headRight{
+    height: 70px;
+
+    display: flex;
+    align-items: center;
+}
+.headRight .icon1{
+    width: 24px;
+    font-size: 23px;
+    color: whitesmoke;
+}
+.headRight .icon3{
+    font-size: 20px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: whitesmoke;
+}
+.icon4{
+    font-size: 16px;
+    color: whitesmoke;
+}
+icon2{
+    width: 48px;
+    height: 40px;
+    padding: 0px 0px;
+
+}
